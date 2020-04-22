@@ -1,10 +1,10 @@
 name:                BJ
 version:             0.1.0.0
-github:              "githubuser/BJ"
+github:              "https://github.com/Koukyosyumei/haskell_blackjack"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2020 Author name here"
+author:              "Koukyosyumei"
+maintainer:          "koukyosyumei@hotmail.com"
+copyright:           "2020 Koukyosyumei"
 
 extra-source-files:
 - README.md
